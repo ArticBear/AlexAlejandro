@@ -7,7 +7,10 @@ public class holita {
         //iniciamos rama desarrollo
         for (int i = 0; i < 15; i++) {
             System.out.println("PiM PaM");
-            System.out.println("Tomalacasitos");
+            System.out.println("Tomalacasitos");}
+        for (int i = 1; i < 15; i++) {
+            System.out.println(i + "elefante"+(i>1?"s":"")+" se balanceaba sobre la tela de una araña!");
         }
     }
+
 }
